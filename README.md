@@ -14,3 +14,10 @@ graph LR
     C[MinOut: 3900 USDC] --> E[3900000000]
     D --> F[Final Value: 1000000003900000000]
     E --> F
+```
+
+## Getting Started
+
+Run: `curl -L https://foundry.paradigm.xyz | bash && source ~/.bashrc && foundryup`
+
+Build the foundry project with `forge build`. Run tests with `forge test`. Measure gas with `forge snapshot`. Format with `forge fmt`.
