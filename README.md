@@ -1,4 +1,4 @@
-# [ztx](https://github.com/z0r0z/ztx)  [![License: AGPL-3.0-only](https://img.shields.io/badge/License-AGPL-black.svg)](https://opensource.org/license/agpl-v3/) [![solidity](https://img.shields.io/badge/solidity-%5E0.8.28-black)](https://docs.soliditylang.org/en/v0.8.28/) [![Foundry](https://img.shields.io/badge/Built%20with-Foundry-000000.svg)](https://getfoundry.sh/) ![tests](https://github.com/z0r0z/ztx/actions/workflows/ci.yml/badge.svg)
+# [ztx](https://github.com/z0r0z/ztx)  [![License: AGPL-3.0-only](https://img.shields.io/badge/License-AGPL-black.svg)](https://opensource.org/license/agpl-v3/) [![solidity](https://img.shields.io/badge/solidity-%5E0.8.28-black)](https://docs.soliditylang.org/en/v0.8.28/) [![Foundry](https://img.shields.io/badge/Built%20with-Foundry-000000.svg)](https://getfoundry.sh/)
 
 Zero TX (ZTX) is a gas optimization technique that enables lightweight programmability in smart contract interactions through the least significant bits of ETH transfers, eliminating the need for calldata.
 
